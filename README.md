@@ -30,13 +30,13 @@ Before running this application, ensure you have the following software installe
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/riteshd541/Lasles-VPN/tree/main
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd LaslesVPN
+   cd Lasles-VPN
    ```
 
 3. Install project dependencies:
