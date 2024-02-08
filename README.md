@@ -49,7 +49,7 @@ Before running this application, ensure you have the following software installe
 
 To run the application locally, execute the following command:
    ```
-   npm install
+   npm start
    ```
 This command starts the development server and opens the application in your default web browser at `http://localhost:3000`.
 
